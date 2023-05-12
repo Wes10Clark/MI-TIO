@@ -9,14 +9,13 @@ const categories = [
   { id: "5", name: "Chimichangas", selector: "#chimichangas" },
   { id: "6", name: "Chicken", selector: "#chicken" },
   { id: "7", name: "Fajitas", selector: "#fajitas" },
-  { id: "8", name: "Fernandos Burritos", selector: "#fernandosburritos" },
-  { id: "9", name: "House Specialties", selector: "#housespecialties" },
-  { id: "10", name: "Enchiladas", selector: "#enchiladas" },
-  { id: "11", name: "Seafood", selector: "#seafood" },
-  { id: "12", name: "Combinations", selector: "#combinations" },
-  { id: "13", name: "A La Carte", selector: "#alacarte" },
-  { id: "14", name: "Make Your Own Combo", selector: "#makeyourowncombo" },
-  { id: "15", name: "Lunch Menu", selector: "#lunchmenu" },
+  { id: "8", name: "House Specialties", selector: "#housespecialties" },
+  { id: "9", name: "Enchiladas", selector: "#enchiladas" },
+  { id: "10", name: "Seafood", selector: "#seafood" },
+  { id: "11", name: "Combinations", selector: "#combinations" },
+  { id: "12", name: "A La Carte", selector: "#alacarte" },
+  { id: "13", name: "Make Your Own Combo", selector: "#makeyourowncombo" },
+  { id: "14", name: "Lunch Menu", selector: "#lunchmenu" },
 ];
 
 const Menu = () => {
@@ -520,9 +519,8 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">Carne Asada</h4>
           <p className="food-description">
-            One of Fernando's favorites, a flavorful, well seasoned 10 oz
-            rib-eye grilled to order with a cheese enchilada on top and served
-            on a hot skillet
+            A flavorful, well seasoned 10 oz rib-eye grilled to order with a
+            cheese enchilada on top and served on a hot skillet
           </p>
           <h5 className="food-price">$22.99</h5>
         </div>
@@ -575,45 +573,6 @@ const Menu = () => {
             Two grilled fish fillets with onions and bell peppers
           </p>
           <h5 className="food-price">$22.99</h5>
-        </div>
-
-        <h3 className="menu-category" id="fernandosburritos">
-          Fernandos Build Your Own Burrito
-        </h3>
-        <span className="menu-category-details">
-          Roll your own Fernando's burrito with an oversized tortilla stuffed
-          with your choice of meat, veggies, beans, cheeses and toppings
-        </span>
-        <div className="card">
-          <h4 className="food-title">Fernando's Burritos</h4>
-          <p className="food-description">Build your own burrito</p>
-          <h6 className="byob">Torilla</h6>
-          <p className="byobo">
-            Flour, Wheat, Spinach, Jalapeno, Zesty Garlic Herb
-          </p>
-          <h6 className="byob">Meat</h6>
-          <p className="byobo">
-            Ground Beef, Grilled Steak, Shredded Chicken, Shrimp(+$2.50),
-            Shredded Beef, Grilled Chicken
-          </p>
-          <h6 className="byob">Beans</h6>
-          <p className="byobo">Refried Beans, Black Beans, Charro Beans</p>
-          <h6 className="byob">Cheese</h6>
-          <p className="byobo">
-            Monterey Jack Cheese, Cheddar Cheese, Mixed Cheeses
-          </p>
-          <h6 className="byob">Topping Or Sauce</h6>
-          <p className="byobo">
-            White Queso, Ranchero Sauce, Sour Cream Sauce, Yellow Queso, Salsa
-            Verde, Chili Con Carne
-          </p>
-          <h6 className="byob">Additional Items</h6>
-          <p className="byobo">
-            Romaine Lettuce, Pico de Gallo, Grilled Onions, Diced Tomatoes,
-            Jalapenos, Mixed Veggies
-          </p>
-          <h5 className="food-price">$14.99</h5>
-          <span>Other items can be added at additional charge</span>
         </div>
         <h3 className="menu-category" id="housespecialties">
           House Specialties

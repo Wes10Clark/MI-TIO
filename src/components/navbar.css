@@ -13,7 +13,7 @@
 }
 
 .heading {
-  color: rgb(206, 32, 32);
+  color: rgb(52, 235, 100);
   font-size: 40px;
   height: 100%;
   display: flex;
@@ -24,7 +24,7 @@
 
 .heading-link {
   text-decoration: none;
-  color: rgb(206, 32, 32);
+  color: rgb(52, 235, 100);
   display: flex;
   align-items: center;
   height: 100%;
@@ -51,7 +51,7 @@ li:hover {
 
 .link {
   text-decoration: none;
-  color: rgb(206, 32, 32);
+  color: rgb(52, 235, 100);
   font-weight: bold;
 }
 
@@ -62,7 +62,7 @@ li:hover {
 .navbar-toggler {
   display: none;
   background-color: transparent;
-  color: rgb(206, 32, 32);
+  color: rgb(52, 235, 100);
   border: none;
   font-size: 24px;
   cursor: pointer;
@@ -70,7 +70,7 @@ li:hover {
 }
 
 .navbar-toggler i {
-  color: rgb(206, 32, 32);
+  color: rgb(52, 235, 100);
 }
 .overlay {
   position: fixed;
@@ -103,7 +103,7 @@ li:hover {
   }
   .navbar-toggler {
     display: block;
-    color: rgb(206, 32, 32);
+    color: rgb(52, 235, 100);
     border: none;
     font-size: 30px;
     cursor: pointer;
@@ -118,7 +118,7 @@ li:hover {
   }
   .heading-link {
     text-decoration: none;
-    color: rgb(206, 32, 32);
+    color: rgb(52, 235, 100);
     display: flex;
     align-items: center;
     height: 100%;
@@ -150,7 +150,7 @@ li:hover {
     margin: 10px 0;
   }
   .heading {
-    color: rgb(206, 32, 32);
+    color: rgb(52, 235, 100);
     font-size: 40px;
     height: 100%;
     display: flex;

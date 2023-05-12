@@ -38,6 +38,10 @@
   display: block;
   text-align: center;
   color: rgb(52, 235, 100);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
 }
 .card {
   border: 2px solid rgb(52, 235, 100);
