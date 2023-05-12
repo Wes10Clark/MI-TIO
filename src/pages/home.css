@@ -1,0 +1,10 @@
+.home {
+  background-color: rgba(62, 37, 11, 0.5);
+}
+.logo {
+  display: block;
+  padding: 2rem;
+  margin: auto;
+  max-width: 35%;
+  height: auto;
+}

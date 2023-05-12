@@ -1,0 +1,32 @@
+.drinks {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 50px 0;
+}
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.drink-alert {
+  text-align: center;
+  color: rgb(52, 235, 100);
+}
+.drink-title {
+  text-align: center;
+  color: rgb(0, 99, 65);
+  font-size: large;
+}
+.drink-name {
+  text-align: center;
+  color: rgb(0, 99, 65);
+  font-size: large;
+  margin-top: 0.5rem;
+}
+.drink-description {
+  text-align: center;
+}
+.drink-price {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  margin-top: 1rem;
+}

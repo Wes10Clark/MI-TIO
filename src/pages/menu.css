@@ -1,0 +1,73 @@
+.menu {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 50px 0;
+}
+.searchbar {
+  text-align: center;
+  color: white;
+}
+.selector {
+  font-size: 25px;
+  margin-right: 1rem;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 20px;
+  color: white;
+}
+.menu-icon {
+  margin-bottom: 50px;
+  font-size: 48px;
+  display: block;
+  margin: 0 auto;
+  color: rgb(52, 235, 100);
+}
+.menu-category {
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(52, 235, 100);
+}
+.menu-category-details {
+  display: block;
+  text-align: center;
+  color: rgb(52, 235, 100);
+}
+.card {
+  border: 2px solid rgb(52, 235, 100);
+  padding: 20px;
+  margin: 1.5rem;
+  background-color: white;
+}
+
+/* Style the title */
+.food-title {
+  font-size: 24px;
+  color: rgb(14, 117, 8);
+}
+
+/* Style the menu description */
+.food-description {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* Style the price */
+.food-price {
+  font-size: 20px;
+  margin-top: 10px;
+  color: bold;
+}
+.byob {
+  color: bold;
+}
+
+.byobo {
+  color: rgb(14, 117, 8);
+}
