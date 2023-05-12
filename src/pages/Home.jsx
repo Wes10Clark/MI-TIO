@@ -58,6 +58,8 @@ const Home = () => {
         <h2 className="sub-heading">¡Bienvenidos a Mi Tio!</h2>
         <a
           href="https://www.google.com/maps/place/MI+Tio/@30.3164908,-91.8321252,15z/data=!4m6!3m5!1s0x8624879d5d58250d:0x53f1934d2c7167af!8m2!3d30.3164908!4d-91.8321252!16s%2Fg%2F11t_z8j15d"
+          target="_blank"
+          rel="noopener noreferrer"
           className="button"
         >
           Directions

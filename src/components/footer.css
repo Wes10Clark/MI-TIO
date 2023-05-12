@@ -1,0 +1,27 @@
+.footer {
+  background-color: black;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0.5rem;
+  font-size: 16px;
+}
+.facebook-container {
+  margin-top: 1rem;
+}
+.facebook-link {
+  color: blue;
+  font-size: 24px;
+  margin-top: 1rem;
+}
+.instagram-container {
+  margin-top: 0.5rem;
+}
+.instagram-link {
+  color: red;
+  margin-top: 2rem;
+  font-size: 24px;
+}
