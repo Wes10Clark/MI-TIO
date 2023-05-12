@@ -10,7 +10,7 @@ const Home = () => {
     <div className="home">
       <img src={Logo} alt="" className="logo" />
       <div className="welcome-message">
-        <h1>Welcome to Mi Tio - where flavor comes to life!</h1>
+        <h1>Welcome to Mi Tio - taste the difference!</h1>
         <p className="description">
           We invite you to embark on a culinary journey that celebrates the
           vibrant and authentic flavors of Mexico. Our passion for Mexican
