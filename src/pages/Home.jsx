@@ -18,7 +18,7 @@ const Home = () => {
           the richness and diversity of our heritage.
         </p>
         <div className="picture-container">
-          <img classname="front" src={Front} alt="resturant front" />
+          <img className="picture" src={Front} alt="restaurant front" />
         </div>
         <p className="description">
           At Mi Tio, we believe that every bite should be an experience, a
@@ -28,27 +28,14 @@ const Home = () => {
           thoughtfully prepared using the freshest ingredients and bold spices
           that capture the essence of Mexican gastronomy.
         </p>
-        <p className="description">
-          Step into our vibrant and welcoming space, where the aromas of
-          sizzling fajitas, the melodies of mariachi music, and the laughter of
-          happy diners fill the air. Whether you're joining us for a casual
-          lunch, a romantic dinner, or a festive celebration, our friendly staff
-          is here to ensure your experience is nothing short of exceptional.
-        </p>
-        <img src={Sign} alt="mi tio sign" />
+        <img className="picture" src={Sign} alt="Mi Tio sign" />
         <p className="description">
           Explore our menu that showcases the iconic dishes of Mexico, from
           sizzling carne asada and mouthwatering tacos to indulgent enchiladas
           and refreshing margaritas. Each bite tells a story, taking you on a
           journey through the diverse culinary regions of Mexico.
         </p>
-        <p className="description">
-          At Mi Tio, we strive to create more than just a meal. We aim to create
-          memories and moments of joy shared with loved ones. We are honored to
-          be a part of your special occasions, family gatherings, and cherished
-          milestones.
-        </p>
-        <img src={Bar} alt="mi tio bar" />
+        <img className="picture" src={Bar} alt="Mi Tio bar" />
         <p className="description">
           Thank you for choosing Mi Tio. Join us as we celebrate the vibrant
           flavors, warm hospitality, and rich traditions of Mexico. Get ready to
@@ -63,6 +50,15 @@ const Home = () => {
           className="button"
         >
           Directions
+        </a>
+        <p className="review">Feel free to leave us a review</p>
+        <a
+          href="https://g.page/r/Ca9ncSxNk_FTEB0/review"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="button"
+        >
+          Review
         </a>
       </div>
     </div>

@@ -10,6 +10,9 @@ const Footer = () => {
       <p>&copy; 2023 Mi Tio. All rights reserved.</p>
       <p>2942 Grand Point Hwy, Breaux Bridge, LA, United States, Louisiana </p>
       <p>Phone: (337) 454-6064 </p> <p>Email: mitiomexicangrill@gmail.com</p>
+      <h3>Hours</h3>
+      <p>Sunday-Thurday 11AM - 9PM</p>
+      <p>Friday Saturday 11AM - 10PM</p>
       <div className="facebook-container">
         <Link
           to="https://www.facebook.com/profile.php?id=100091312973571"
