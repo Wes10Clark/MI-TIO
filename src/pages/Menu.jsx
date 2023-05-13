@@ -50,7 +50,7 @@ const Menu = () => {
       <div className="container">
         <h2 className="section-title">Menu</h2>
         <MdRestaurantMenu className="menu-icon" />
-        <h3 className="menu-category" id="appetizer">
+        <h3 className="menu-category" id="appetizers">
           Appetizers
         </h3>
         <div className="card">
@@ -69,9 +69,9 @@ const Menu = () => {
           <h5 className="food-price">Small $4.99 Large $8.99</h5>
         </div>
         <div className="card">
-          <h4 className="food-title">Mi Tio Dip</h4>
+          <h4 className="food-title">Mi Tio`s` Dip</h4>
           <p className="food-description">
-            Fernando's own special cheese dip. Your choice of white or yellow
+            Mi Tio`s` own special cheese dip. Your choice of white or yellow
             queso with seasoned beef, refried beans and Pico De Gallo
           </p>
           <h5 className="food-price">$9.99</h5>
@@ -151,7 +151,7 @@ const Menu = () => {
             Ground Beef, Shredded Chicken, or mixed $11.99
           </h5>
           <h5 className="food-price">
-            Steak, Grilled Chicken, or mixed (served with sauteed vegetables)
+            Steak, Grilled Chicken, or mixed (served with sautéed vegetables)
             $13.99
           </h5>
           <h5 className="food-price">Seasoned Grilled Shrimp $14.99</h5>
@@ -213,7 +213,7 @@ const Menu = () => {
           <h4 className="food-title">Pinata Salad</h4>
           <p className="food-description">
             A crunchy flat flour tortilla shell topped with ground beef,
-            shredded chicken, chili con came, rice, refried beans, lettuce,
+            shredded chicken, chili con carne, rice, refried beans, lettuce,
             tomatoes, grated carrots, green onions, black olives, shredded
             cheese, and sour cream
           </p>
@@ -237,7 +237,7 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">Fajita Wrap Tacos</h4>
           <p className="food-description">
-            Three soft fajita tacos, one chicken, one steak, and one shrimp
+            Three soft fajita tacos, one chicken, one steak, and one shrimp,
             stuffed with sautéed vegetables, sour cream and white queso on the
             side
           </p>
@@ -348,7 +348,7 @@ const Menu = () => {
           <h4 className="food-title">Fajita Burrito</h4>
           <p className="food-description">
             A large flour tortilla stuffed with fajita chicken or fajita steak
-            or mix and sauteed vegetables, topped with white queso
+            or mixed and sautéed vegetables, topped with white queso
           </p>
           <h5 className="food-price">$14.99</h5>
         </div>
@@ -455,7 +455,7 @@ const Menu = () => {
           <h4 className="food-title">Cami`s Pollo</h4>
           <p className="food-description">
             Grilled chicken breast topped with chorizo, monterey jack cheese and
-            cheese sauce. Served with lettuce, pico de mango ans sour cream
+            cheese sauce. Served with lettuce, pico de mango and sour cream
           </p>
           <h5 className="food-price">$15.99</h5>
         </div>
@@ -495,7 +495,7 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">Traditional Fajitas</h4>
           <p className="food-description">
-            Fajitas your choice of tender grilled fajita steak, fajita chicken
+            Fajitas your choice of tender grilled fajita steak, fajita chicken,
             or mixed. Served on a hot skillet over sautéed vegetables
           </p>
           <h5 className="food-price">For One $19.99 - For Two $38.99</h5>
@@ -817,7 +817,7 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">Camarones Ala Mojo</h4>
           <p className="food-description">
-            Jumbo shrimp sauteed with wine and garlic sauce, served on a bed of
+            Jumbo shrimp sautéed with wine and garlic sauce, served on a bed of
             rice. Served with California vegetable blend
           </p>
           <h5 className="food-price">$19.99</h5>
@@ -883,7 +883,7 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">Danny</h4>
           <p className="food-description">
-            Slices of steak, sauteed vegetables, one shredded chicken enchilada
+            Slices of steak, sautéed vegetables, one shredded chicken enchilada
             topped with sour cream sauce. Served with lettuce, tomatoes, sour
             cram and guacamole
           </p>
@@ -941,8 +941,7 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">Mi TIo Taco</h4>
           <p className="food-description">
-            One fernando`s taco with a fried cruchy shell with your choice of
-            protein
+            One taco with a fried cruchy shell with your choice of protein
           </p>
           <h5 className="food-price">$4.99</h5>
         </div>
@@ -1275,7 +1274,7 @@ const Menu = () => {
         <div className="card">
           <h4 className="food-title">15) Crunchy Taco</h4>
           <p className="food-description">
-            Two small Fernando's tacos with shredded beef lettuce, tomatoes and
+            Two small deep fried tacos with shredded beef lettuce, tomatoes and
             shredded cheese served with rice and beans
           </p>
           <h5 className="food-price">$10.99</h5>
